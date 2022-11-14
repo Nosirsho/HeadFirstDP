@@ -1,0 +1,14 @@
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.exe
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.deps.json
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.json
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.dev.json
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.dll
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.pdb
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfo.cs
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.dll
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.pdb
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.genruntimeconfig.cache

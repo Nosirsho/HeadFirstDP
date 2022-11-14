@@ -1,0 +1,14 @@
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\bin\Debug\netcoreapp3.1\HeadFirstDP.exe
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\bin\Debug\netcoreapp3.1\HeadFirstDP.deps.json
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\bin\Debug\netcoreapp3.1\HeadFirstDP.runtimeconfig.json
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\bin\Debug\netcoreapp3.1\HeadFirstDP.runtimeconfig.dev.json
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\bin\Debug\netcoreapp3.1\HeadFirstDP.dll
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\bin\Debug\netcoreapp3.1\HeadFirstDP.pdb
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.csproj.AssemblyReference.cache
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.AssemblyInfoInputs.cache
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.AssemblyInfo.cs
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.csproj.CoreCompileInputs.cache
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.dll
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.pdb
+C:\Users\N_Kholmamadov\source\repos\DesignPatterns\HeadFirstDP\HeadFirstDP\obj\Debug\netcoreapp3.1\HeadFirstDP.genruntimeconfig.cache
